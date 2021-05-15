@@ -4,11 +4,11 @@
 **Where to find me**
 
 <!-- - [My Blog](https://blog.skk.moe) -->
-- [Twitter](https://twitter.com/bernylinville)
-- [E-Mail](mailto:bernylinville@devopsthink.org)
+- [Twitter](https://twitter.com/kyle0755)
+- [E-Mail](mailto:kylechou@devopsthink.org)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernylinville&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylechou0755&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bernylinville/bernylinville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
